@@ -1,4 +1,4 @@
-🌍 Sprachen: [🇺🇸 English](https://github.com/Dreamdancer100/GLX-Photo-Manager/blob/main/README.md) | [🇩🇪 Deutsch](https://github.com/Dreamdancer100/GLX-Photo-Manager-Nextcloud-App-/blob/main/README.de.md)
+🌍 Sprachen: [🇺🇸 English](https://github.com/Dreamdancer100/GLX-Photo-Manager-Nextcloud-App-/blob/main/README.md) | [🇩🇪 Deutsch](https://github.com/Dreamdancer100/GLX-Photo-Manager-Nextcloud-App-/blob/main/README.de.md)
 
 <div align="center">
 
