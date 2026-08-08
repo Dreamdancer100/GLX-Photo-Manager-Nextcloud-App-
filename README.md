@@ -107,7 +107,7 @@ Roughly 20,000 files across two decades, spread over iPhone exports, an old gall
 
 ## 🔗 More about this app
 
-👉 **[GLX-Photo-Manager on gordonx.de](https://gordonx.de/)** — description, screenshots and download.
+👉 **[GLX-Photo-Manager on gordonx.de](https://gordonx.de/glx-photo-zentrale-nextcloud-app/)** — description, screenshots and download.
 
 ---
 
